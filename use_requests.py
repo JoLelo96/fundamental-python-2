@@ -8,4 +8,4 @@ try:
 except Exception as e:
     print(f'Ada error {e}')
 
-print('Akhir Program')
+print('Akhir Program !!')
